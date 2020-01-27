@@ -48,7 +48,7 @@ int fibonacci(int num)
 
 int main()
 {
-    long num = 30;
+    long num = 40;
     auto start = high_resolution_clock::now();
     cout << "\nThe fibonacci series : " ;
     fibonacci(num);
